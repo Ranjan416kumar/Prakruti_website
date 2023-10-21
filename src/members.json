@@ -1,0 +1,61 @@
+[
+  {
+    "Name":"ASTHA ARYA",
+    "Rollno":"214121006",
+    "YourPicture":"https://drive.google.com/file/d/1c37FiHfCLcs-BnsLLO9EkxI4RojAe_LA/view?usp=drivesdk",
+    "WhatsAppContact":"+91 8874020748",
+    "LinkedinProfile":"www.linkedin.com/in/astha-arya-a9a460180",
+    "PicturePath":"assets/members/astha.jpg"
+  },
+  {
+    "Name":"Tamil Selvi R",
+    "Rollno":"103119114",
+    "YourPicture":"https://drive.google.com/file/d/1c37FiHfCLcs-BnsLLO9EkxI4RojAe_LA/view?usp=drivesdk",
+    "WhatsAppContact":"+91 8754450225",
+    "InstagramProfile":"https://instagram.com/_thamizh_._?igshid=YmMyMTA2M2Y=",
+    "LinkedinProfile":"https://www.linkedin.com/in/tamil-selvi-r-6459381b7",
+    "PicturePath":"assets/members/tamilselvi.jpg"
+  },
+  {
+    "Name":"Yash Hiray",
+    "Rollno":"205221009",
+    "YourPicture":"https://drive.google.com/file/d/1c37FiHfCLcs-BnsLLO9EkxI4RojAe_LA/view?usp=drivesdk",
+    "WhatsAppContact":"+91 7744892691",
+    "PicturePath":"assets/members/yash.jpg"
+  },
+  {
+    "Name":"Bishal Raj Singh",
+    "Rollno":"102120023",
+    "YourPicture":"https://drive.google.com/file/d/1c37FiHfCLcs-BnsLLO9EkxI4RojAe_LA/view?usp=drivesdk",
+    "WhatsAppContact":"+91 6290771511",
+    "PicturePath":"assets/members/bishal.jpg"
+  },
+  {
+    "Name":"Poncibi B",
+    "Rollno":"112119024",
+    "YourPicture":"https://drive.google.com/file/d/1c37FiHfCLcs-BnsLLO9EkxI4RojAe_LA/view?usp=drivesdk",
+    "WhatsAppContact":"+91 9790171387",
+    "InstagramProfile":"https://www.instagram.com/cibi_387/",
+    "LinkedinProfile":"https://www.linkedin.com/in/poncibibi/",
+    "PicturePath":"assets/members/cibi.jpg"
+  },
+  {
+    "Name":"Rishev Ranjan",
+    "Rollno":"103119089",
+    "YourPicture":"https://drive.google.com/file/d/1c37FiHfCLcs-BnsLLO9EkxI4RojAe_LA/view?usp=drivesdk",
+    "WhatsAppContact":"+91 7904188914",
+    "InstagramProfile":"https://instagram.com/rishev_007?igshid=YmMyMTA2M2Y=",
+    "LinkedinProfile":"https://www.linkedin.com/in/rishev-ranjan-500477203",
+    "PicturePath":"assets/members/rishev.jpeg"
+  },
+  {
+    "Name":"Thavapalan Arivan",
+    "Rollno":"106119135",
+    "YourPicture":"https://drive.google.com/file/d/1c37FiHfCLcs-BnsLLO9EkxI4RojAe_LA/view?usp=drivesdk",
+    "WhatsAppContact":"+91 9003621616",
+    "InstagramProfile":"https://www.instagram.com/arivan_199/",
+    "LinkedinProfile":"https://www.linkedin.com/in/thavapalan-a-092a3a104/",
+    "PicturePath":"assets/members/arivan.jpg"
+  }
+  
+]
